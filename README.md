@@ -3,9 +3,10 @@
 <h2 align="left">Hola yo soy <a href="https://github.com/JFFA25" target="_blank" rel="noopener noreferrer">Paco</a>
  <a href="todoroviczoran.com"></a></h2>
 
-- 🌐 Actualmente estoy aprendiendo Angular
-- 💻 Actualmente estoy aprendiendo en la UTXJ
+
 - 🎸 Me gusta escuchar musica , sobre todo Rock y Nu-Metal!
+- 🍩 Me gustan mucho las Donuts
+- 🎮 Mis video juegos favoritos son TF2 , L4D2 , KOF2002 y CODM
 
 
 ### Tech Stack
@@ -39,9 +40,3 @@
 
 </span>
 <br/>
-
-
-
------
-Credit:[Zoksss](https://github.com/Zoksss)
-Last Edited on: 15/03/2025
