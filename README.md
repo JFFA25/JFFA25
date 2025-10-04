@@ -2,7 +2,6 @@
 
 <p align="left">
 🎸 Apasionado por la música, con especial interés en los géneros Rock y Nu-Metal.<br>
-🍩 Aficionado a las donas.<br>
 🎮 Entusiasta de los videojuegos, entre ellos <em>Team Fortress 2</em>, <em>Left 4 Dead 2</em>, <em>The King of Fighters 2002</em>, <em>Call of Duty: Mobile</em> y <em>Super Smash Bros. Ultimate</em>.<br>
 </p>
 
