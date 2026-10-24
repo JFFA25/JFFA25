@@ -1,48 +1,54 @@
-<h2 align="left">Hola, mi nombre es <a href="https://github.com/JFFA25" target="_blank" rel="noopener noreferrer">Francisco</a> 👋</h2>
+<h1 align="center">Hola, soy Francisco</h1>
 
-<p align="left">
-🎸 Apasionado por la música, con especial interés en los géneros Rock y Nu-Metal.<br>
-🎮 Entusiasta de los videojuegos, entre ellos <em>Team Fortress 2</em>, <em>Left 4 Dead 2</em>, <em>The King of Fighters 2002</em>, <em>Call of Duty: Mobile</em> y <em>Super Smash Bros. Ultimate</em>.<br>
+<p align="center">
+  <img src="https://images.steamusercontent.com/ugc/859480792487746986/7114B43F536ECBC8FF6A332080F871D8BC5FD401/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" alt="Álbum" />
 </p>
 
-<h3 align="left">🎯 Personajes Favoritos / Main</h3>
-<p align="left">
-<em>Team Fortress 2:</em> Scout<br>
-<em>Left 4 Dead 2:</em> Nick<br>
-<em>The King of Fighters:</em> Iori, Kim, Kusanagi<br>
-<em>Super Smash Bros. Ultimate:</em> Sonic, Terry, Ryu<br>
+<p align="center">
+  Estudiante de desarrollo de software enfocado en aplicaciones web y móviles.<br>
+  Me gusta construir proyectos, aprender tecnologías nuevas y mejorar un poco cada día.
 </p>
-
 
 ---
 
-### Lenguajes
-<span>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</span>
+## Stack tecnológico
 
-### Frameworks y Librerías
-<span>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</span>
+**Lenguajes**
 
-### Front-End
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</span>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Back-End
-<span>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</span>
+**Front-End**
 
-### Bases de Datos
-<span>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-</span>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+**Móvil**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Back-End**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Bases de datos**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Appetize](https://img.shields.io/badge/Appetize.io-1F2937?style=flat-square)
+
+---
+
+<p align="center">
+  <a href="https://github.com/JFFA25" target="_blank" rel="noopener noreferrer">github.com/JFFA25</a>
+</p>
