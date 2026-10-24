@@ -55,6 +55,32 @@
 
 ---
 
+<h2 align="center">Música</h2>
+
+<p align="center">
+  Rock y Nu-Metal
+</p>
+
+<h4 align="center">Linkin Park</h4>
+<p align="center">
+  <img src="Meteora.jpg" width="200" alt="Meteora" />
+  <img src="LostDemos.jpg" width="200" alt="Lost Demos" />
+</p>
+
+<h4 align="center">Deftones</h4>
+<p align="center">
+  <img src="SaturdayNightWrist.jpg" width="200" alt="Saturday Night Wrist" />
+  <img src="Private%20Music.jpg" width="200" alt="Private Music" />
+</p>
+
+<h4 align="center">Enjambre</h4>
+<p align="center">
+  <img src="Da%C3%B1osLuz.jpg" width="200" alt="Daños de Luz" />
+  <img src="Proa%C3%B1o.jpg" width="200" alt="Proaño" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/JFFA25" target="_blank" rel="noopener noreferrer">github.com/JFFA25</a>
 </p>
